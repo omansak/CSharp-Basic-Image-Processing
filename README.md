@@ -1,5 +1,5 @@
 # CSharp-Basic-Image-Processing
-Basic Image Processing with C#. Features : Negative,Mirrors,Resize,Gray Scaling,Rotate,Histograms,RGB Channels
+Basic Image Processing with C# Windows Form Application.
 #### Features
 * Negative
 * Mirrors
