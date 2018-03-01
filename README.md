@@ -8,6 +8,7 @@ Basic Image Processing with C# Windows Form Application.
 * Rotate
 * Histograms
 * RGB Channels
+* History
 ##### Main Page
 ![CSharp-Basic-Image-Processing](https://github.com/omansak/CSharp-Basic-Image-Processing/blob/master/Images/Main.PNG "Main")
 ##### Channels Page
